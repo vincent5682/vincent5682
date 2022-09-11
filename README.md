@@ -6,7 +6,7 @@
 </h2>
 <!--- Snake Graph --->
 <p align="center">
-<img src="https://github.com/vincent5682/vincent5682/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+<img src="https://github.com/vincent5682/vincent5682/blob/d38df8571ecfc328544804650f30a45d67f355e3/workflows/snake.yml" alt="snake" style="max-width: 100%;">
 </p>
 <br>
 <br>
