@@ -39,4 +39,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          PAT_1
+          GITHUB_TOKEN: ${{ PAT_1 }}
