@@ -31,7 +31,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
     <a href="[https://www.typescriptlang.org/](https://tailwindcss.com/)" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg" alt="tailwind" width="40" height="40" />
+        <img src="https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/90730619_103873424601065_2482667104847790080_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=UweYzsx3W-wAX-5pN3-&_nc_ht=scontent-dus1-1.xx&oh=00_AT_u7JmaX2rHTxxnwVTfQ1VO1l1i8iS4UY9eNtBbkq_xfw&oe=634B2817" alt="tailwind" width="40" height="40" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
