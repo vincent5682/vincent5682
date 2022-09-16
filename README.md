@@ -12,9 +12,6 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </a>
@@ -35,6 +32,9 @@
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/90730619_103873424601065_2482667104847790080_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=UweYzsx3W-wAX-5pN3-&_nc_ht=scontent-dus1-1.xx&oh=00_AT_u7JmaX2rHTxxnwVTfQ1VO1l1i8iS4UY9eNtBbkq_xfw&oe=634B2817" alt="tailwind" width="40" height="40" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
