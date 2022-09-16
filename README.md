@@ -8,8 +8,7 @@
 <p align="center">
 <img src="https://github.com/vincent5682/vincent5682/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
-<br>
-<br>
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
