@@ -31,10 +31,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png" alt="lua" width="40" height="40" />
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/90730619_103873424601065_2482667104847790080_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=UweYzsx3W-wAX-5pN3-&_nc_ht=scontent-dus1-1.xx&oh=00_AT_u7JmaX2rHTxxnwVTfQ1VO1l1i8iS4UY9eNtBbkq_xfw&oe=634B2817" alt="tailwind" width="40" height="40" />
-    </a>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="react" width="40" height="40" />
+        <img src="[https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/90730619_103873424601065_2482667104847790080_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=UweYzsx3W-wAX-5pN3-&_nc_ht=scontent-dus1-1.xx&oh=00_AT_u7JmaX2rHTxxnwVTfQ1VO1l1i8iS4UY9eNtBbkq_xfw&oe=634B2817](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png)" alt="tailwind" width="40" height="40" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
