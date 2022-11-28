@@ -31,7 +31,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png" alt="lua" width="40" height="40" />
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" alt="tailwind" width="40" height="40" />
+        <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="tailwind" width="40" height="40" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
