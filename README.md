@@ -30,8 +30,8 @@
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png" alt="lua" width="40" height="40" />
     </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="[[[https://scontent-dus1-1.xx.fbcdn.net/v/t1.6435-9/90730619_103873424601065_2482667104847790080_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=UweYzsx3W-wAX-5pN3-&_nc_ht=scontent-dus1-1.xx&oh=00_AT_u7JmaX2rHTxxnwVTfQ1VO1l1i8iS4UY9eNtBbkq_xfw&oe=634B2817](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png)](https://viget.imgix.net/tailwind-on-gray.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-2.1.1&q=90&w=1200&s=d45cb3d7233ce6e0b46f131c660d5adb)](https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg)" alt="tailwind" width="40" height="40" />
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
